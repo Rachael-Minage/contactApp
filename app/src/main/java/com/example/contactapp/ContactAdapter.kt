@@ -65,7 +65,6 @@ class ContactAdapter(var contactList: List<Contacts>):RecyclerView.Adapter<Conta
 
 }
 
-
 class ContactViewHolder(var binding: ContactListItemBinding):RecyclerView.ViewHolder(binding.root){
 
 }
